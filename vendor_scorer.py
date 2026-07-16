@@ -58,7 +58,7 @@ def main():
     
     if score < 60:
         print("Risk Rating     : HIGH (Do Not Procure / Require Major Remediation)")
-    elif score < 80:
+    elif score < 85:
         print("Risk Rating     : MEDIUM (Conditional Approval with Remediation Plan)")
     else:
         print("Risk Rating     : LOW (Approved)")
