@@ -109,7 +109,7 @@ python vendor_scorer.py sample_vendor.json
 
 Vendor Assessed : NaviEdge Solutions (Mock Maritime AI Assessment)
 Compliance Score: 81.67%
-Risk Rating     : LOW (Approved)
+Risk Rating     : MEDIUM (Conditional Approval with Remediation Plan)
 
 [!] Key Findings:
     - CRITICAL GAP: Model Drift Monitoring is non-compliant.
