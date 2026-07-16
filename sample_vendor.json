@@ -1,0 +1,13 @@
+{
+    "vendor_name": "NaviEdge Solutions (Mock Maritime AI Assessment)",
+    "responses": {
+        "eu_ai_act_conformity": 3,
+        "iso27001_supplier_security": 3,
+        "data_privacy_dpdp_gdpr": 2,
+        "model_drift_monitoring": 1,
+        "human_in_loop_override": 3,
+        "scada_edge_device_security": 2,
+        "incident_response_sla": 3,
+        "sub_processor_disclosure": 2
+    }
+}
